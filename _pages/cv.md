@@ -31,6 +31,13 @@ Skills
 * Matlab
 * C++
 
+Languages
+======
+* Chinese (mother tongue)
+* English (C1)
+* German (C1)
+* French (A2)
+
 Publications
 ======
   <ul>{% for post in site.publications %}
