@@ -17,11 +17,9 @@ Education
 
 Summer School
 ======
-* <ul>{"Oxford Machine Learning, July 2023"}
-    {"https://www.oxfordml.school/program"}
-  </ul>
-* Princeton Machine Learning Theory, June 2023
-* Topics in Modern Machine Learning, University of Genova, June 2023
+* [Oxford Machine Learning, July 2023](https://www.oxfordml.school/program)
+* [Princeton Machine Learning Theory, June 2023](https://mlschool.princeton.edu/#courses)
+* [Topics in Modern Machine Learning, University of Genova, June 2023](https://malga.unige.it/education/schools/modml)
 
 Skills
 ======
