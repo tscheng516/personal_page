@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "A Theoretical Analysis of the Test Error of Finite-Rank Kernel Ridge Regression"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/neurips2023
+excerpt: '-'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+venue: 'Neurips 2023'
+paperurl: 'http://tscheng516.github.io/files/paper_neurips2023.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here]([http://academicpages.github.io/files/paper1.pdf](http://tscheng516.github.io/files/paper_neurips2023.pdf))
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Cheng, Tin Sum, et al. "A Theoretical Analysis of the Test Error of Finite-Rank Kernel Ridge Regression." arXiv preprint arXiv:2310.00987 (2023). <i>Journal 1</i>. 1(1).
