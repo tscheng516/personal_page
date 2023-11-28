@@ -1,0 +1,30 @@
+---
+title: 'Topics in Modern Machine Learning: An advanced machine learning course (19/06/2023 - 23/06/2023)'
+date: 2013-08-14
+permalink: /posts/2023/07/genova/
+tags:
+  - Machine Learning Theory
+  - Lab
+---
+
+This [summer school](https://malga.unige.it/education/schools/modml) provides a well-structured learning experience through accessible lectures, hands-on experiments, and exercise sessions. The curriculum begins with foundational concepts and terminology, ensuring a common understanding among participants. Subsequent lectures delve into various aspects of machine learning, establishing connections between topics. For instance, the lecture on optimal transport introduces the concept of Wasserstein distance, which is further explored in the "Fairness" and "First Order Sampling Optimization" sessions.
+Moreover, the summer school emphasizes recent research advancements, earning its reputation as "More Topics in Modern Machine Learning." A workshop on the interpolation regime and the phenomenon of double descent challenges conventional learning theories by highlighting the impressive generalization capabilities of deep learning models without explicit regulation.
+In summary, I highly recommend this summer school to both master's students in machine learning and PhD students from other disciplines. It offers a comprehensive overview of contemporary machine learning and is designed to facilitate a deeper understanding of the subject matter.
+
+
+Topics
+======
+* Implicit Regularization: early stopping, reparametrization and mirror flow
+* Sketching: Nystroem approximation, random feature model
+* Reinforcement Learning: reward-iterating algorithm, policy iterating algorithm
+* Inverse Problem: L2/TV-regularization, deep image prior
+* Optimal Transport: Wasserstein Gradient Flow
+* Fairness
+* Interpolation Regime: High-dimensional linear regression, double descent
+
+Rating
+======
+theory: ★★★☆☆
+practice: ★★★★☆
+interaction:★★☆☆☆
+logistic: ★★☆☆☆
