@@ -7,6 +7,8 @@ tags:
   - Machine Learning Theory
 ---
 
+Summer school review.
+
 This [summer school](https://mlschool.princeton.edu) offers a captivating program featuring lectures encompassing cutting-edge research topics, ranging from learning phenomena in high-dimensional settings to Wasserstein gradient flow and Mean Field Dynamics of neural networks. Distinguished speakers present their latest works, igniting a sense of exploration among the audience. Engaging in active participation through questions and discussions, the participants foster an exceptional research-oriented atmosphere.
 One particular highlight is the evening poster sessions, where young researchers present and peruse research findings. The diverse backgrounds of the participants provide a comprehensive perspective on state-of-the-art research in modern machine learning.
 Moreover, the provision of complimentary breakfasts and lunches by the organizers extends beyond monetary savings. These culinary offerings facilitate dynamic exchanges of ideas among students with varied backgrounds and expertise, fostering stronger bonds and connections among young researchers.
