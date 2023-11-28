@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/neurips2023
 excerpt: 'This paper is about the non-asymptotic approximation of test error in kernel method.'
 date: 2023-12-10
-venue: 'Neurips 2023'
+venue: 'Neurips'
 paperurl: 'http://tscheng516.github.io/personal_page/files/paper_neurips2023.pdf'
 citation: 'Tin Sum Cheng, Aurelien Lucchi, Ivan Dokmanic, Anastasis Kratsios, and David Belius. A Theoretical Analysis of the Test Error of Finite-Rank Kernel Ridge Regression. Advances in Neural Information Processing Systems, 36, 2023. '
 ---
