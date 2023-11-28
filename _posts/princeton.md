@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post: Princeton Machine Learning Theory Summer School (26.06.2023-30.06.2023)'
 date: 2023-07-19
-permalink: /posts/2023/07/blog_princeton/
+permalink: /posts/2023/07/princeton/
 tags:
   - Summer School Review
   - Machine Learning Theory
