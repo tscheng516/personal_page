@@ -28,7 +28,7 @@ Extras
 
 Rating
 ======
-Theory: ★★★★★
-Practice: ★☆☆☆☆
-Interaction: ★★★★★
-Logistics: ★★★★★
+- Theory: ★★★★★
+- Practice: ★☆☆☆☆
+- Interaction: ★★★★★
+- Logistics: ★★★★★
