@@ -6,7 +6,7 @@ excerpt: 'This paper is about the non-asymptotic approximation of test error in 
 date: 2009-10-01
 venue: 'Neurips 2023'
 paperurl: 'http://tscheng516.github.io/personal_page/files/paper_neurips2023.pdf'
-citation: 'Tin Sum Cheng, Aurelien Lucchi, Ivan Dokmanic ́, Anastasis Kratsios, and David Belius. A Theoretical Analysis of the Test Error of Finite-Rank Kernel Ridge Regression. Advances in Neural Information Processing Systems, 36, 2023. '
+citation: 'Tin Sum Cheng, Aurelien Lucchi, Ivan Dokmani\'{c}, Anastasis Kratsios, and David Belius. A Theoretical Analysis of the Test Error of Finite-Rank Kernel Ridge Regression. Advances in Neural Information Processing Systems, 36, 2023. '
 ---
 
 Abstract
@@ -15,4 +15,4 @@ Existing statistical learning guarantees for general kernel regressors often yie
 
 [Download paper here](http://tscheng516.github.io/personal_page/files/paper_neurips2023.pdf)
 
-Recommended citation: Tin Sum Cheng, Aurelien Lucchi, Ivan Dokmanic ́, Anastasis Kratsios, and David Belius. A Theoretical Analysis of the Test Error of Finite-Rank Kernel Ridge Regression. Advances in Neural Information Processing Systems, 36, 2023. 
+Recommended citation: Tin Sum Cheng, Aurelien Lucchi, Ivan Dokmani\'{c}, Anastasis Kratsios, and David Belius. A Theoretical Analysis of the Test Error of Finite-Rank Kernel Ridge Regression. Advances in Neural Information Processing Systems, 36, 2023. 
