@@ -24,7 +24,7 @@ Topics
 
 Rating
 ======
-theory: ★★★☆☆
-practice: ★★★★☆
-interaction:★★☆☆☆
-logistic: ★★☆☆☆
+- theory: ★★★☆☆
+- practice: ★★★★☆
+- interaction:★★☆☆☆
+- logistic: ★★☆☆☆
