@@ -1,7 +1,7 @@
 ---
 title: 'Topics in Modern Machine Learning: An advanced machine learning course (19/06/2023 - 23/06/2023)'
-date: 2023-08-19
-permalink: /posts/genova/
+date: 2023-07-19
+permalink: /posts/2023/07/genova/
 tags:
   - Machine Learning Theory
   - Lab
