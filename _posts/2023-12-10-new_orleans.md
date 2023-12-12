@@ -40,7 +40,7 @@ Comment: A good exploration step. Coders can relieve for now as it still takes t
 TLDR: Brief summary of what is on the field. The application of RL (reinforcement learning) in robotics, finance and industry is ubiquitous.
 
 Comment: My favorite part is the application on RL on solving constrained optimization problem:
-\[ \min \{  f(x):g(x)\leq 0  \}  \] 
+$ \min \{  f(x):g(x)\leq 0  \}  $
 where the objective and the constraint functions $f,g$ are hard to compute and only accessible by simulations. RL helps approximating the functions as well as run the optimization at the same time.
 
 Extras
