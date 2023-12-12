@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post: Neurips2023 Day 2'
+title: 'Blog Post: Neurips2023 Day 1'
 date: 2023-12-11
 permalink: /posts/2023/12/new_orleans/
 tags:
