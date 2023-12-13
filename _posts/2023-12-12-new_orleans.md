@@ -29,7 +29,7 @@ TLDR: The award is given to the original paper of words tokenization in 2013. 10
 
 Comment: This is a good example of how brilliant ideas can be built upon each other and the success of machine learning is not a coincidence but a long process of experiments.
 
-*[Faith and AI](https://neurips.cc/virtual/2023/social/80560)
+* [Faith and AI](https://neurips.cc/virtual/2023/social/80560)
 
 TLDR: Invited speakers talk about the perspective as christians, Jewish, Muslim and indigenous towards the development of AI, especially on privacy, generative models, consciousness and language models.
 
