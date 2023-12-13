@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-CH"
-title                    : "Tin Sum Cheng / Phd student"
+title                    : "Tin Sum Cheng / PhD student"
 title_separator          : "-"
 name                     : &name "Tin Sum Cheng"
 description              : &description "personal description"
