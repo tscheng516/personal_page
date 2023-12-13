@@ -12,12 +12,7 @@ Conference blog.
 I am attending [Thirty-seventh Conference on Neural Information Processing Systems](https://neurips.cc/virtual/2023/calendar) (Neurips2023) now and I am happy to share my experience with you all. I will write a short summary every day.
 
 # Posters
+Today I am on the poster sessions. 
 
 
-Talks I have attended
-======
 
-
-Extras
-======
-* I attended a poster session today and met many researchers, known or unknown before, and learn a bunch of new stuff!
