@@ -12,7 +12,6 @@ Conference blog.
 I am attending [Thirty-seventh Conference on Neural Information Processing Systems](https://neurips.cc/virtual/2023/calendar) (Neurips2023) now and I am happy to share my experience with you all. I will write a short summary every day.
 
 # Workshop
-=====
 
 Finally, the workshop session has started. It was a very difficult choice for me to pick one particular workshop to attend as many of them are very interesting. At the end, I decided to learn something new (and popular) and attended the [workshop on diffusion models](https://neurips.cc/virtual/2023/workshop/66539). 
 
