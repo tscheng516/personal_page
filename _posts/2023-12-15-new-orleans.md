@@ -13,6 +13,7 @@ I am attending [Thirty-seventh Conference on Neural Information Processing Syste
 
 # Workshop
 =====
+
 Finally, the workshop session has started. It was a very difficult choice for me to pick one particular workshop to attend as many of them are very interesting. At the end, I decided to learn something new (and popular) and attended the [workshop on diffusion models](https://neurips.cc/virtual/2023/workshop/66539). 
 
 The talk, which is the highlight of my day, is [The Emergence of Reproducibility and Consistency in Diffusion Models](https://neurips.cc/virtual/2023/workshop/66539#collapse74578).
