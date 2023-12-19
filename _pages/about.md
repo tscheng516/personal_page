@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student from [Aurelien Lucchi](https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi/)'s group in University of Basel, Switzerland. My main interest is kernel methods and linear neural networks in machine learning theory. Feel free to check out my publications, blogs and CV. Our group welcomes all friendly networking and potential site visit. Please reach out to us and visit the beautiful Switzerland.
+I am a PhD student from [Aurelien Lucchi](https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi/)'s group in University of Basel, Switzerland. My main interests are kernel methods and linear neural networks in machine learning theory. Feel free to check out my publications, blogs and CV. Our group welcomes all friendly networking and potential site visit. Please reach out to us and visit the beautiful Switzerland.
 
 
 For more info
