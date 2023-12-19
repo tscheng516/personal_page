@@ -23,4 +23,4 @@ TLDR: Many datasets or tasks have some group-equivariant structure. Exploiting t
 The conference is ended and it has given me a revelation on machine learning. I am really glad that I have attended the conference. 
 Now it is time to drink a cup of tea and digest what I have learnt in New Orleans.
 
-![How about a cup of tea?](/images/neurips2023_cup "How about a cup of tea?").
+![How about a cup of tea?](/images/neurips2023_cup.jpg "How about a cup of tea?").
