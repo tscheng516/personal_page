@@ -25,4 +25,3 @@ Now it is time to drink a cup of tea and digest what I have learnt in New Orlean
 
 <img src="https://tscheng516.github.io/personal_page/images/neurips2023_cup.jpg" width="200" />
 
-![How about a cup of tea?](https://tscheng516.github.io/personal_page/images/neurips2023_cup.jpg)
