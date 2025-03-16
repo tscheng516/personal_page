@@ -12,7 +12,7 @@ I am a PhD student from [Aurelien Lucchi](https://omls.dmi.unibas.ch/en/persons/
 
 For my published research, please see [Publication](https://tscheng516.github.io/personal_page/publications/). Currently, I am researching on the following exciting topics:
 - Optimization on Reasoning Task: Enhancing reasoning tasks through reinforcement learning, similar to those employed in DeepSeek R1, and comparing it to direct preference optimization
-- Parameter-Efficient Fine-Tuning: Utilizing advanced methods such as LoRA ensembling and weight averaging to fine-tune LLMs/VLMs for downstream tasks.​
+- Parameter-Efficient Fine-Tuning: Utilizing advanced methods such as LoRA ensembling and weight averaging to fine-tune LLMs/VLMs for downstream tasks.​ (Looking for Master Students, have a look on [Proposal](https://docs.google.com/document/d/1F5EPdNdkqcwkUH5rDdNTxYp_9XpuyUbNCfpgdU9_jSY/edit?usp=sharing) and please contact me via email if interested)
 - Quantization Effects: Investigating the impact of quantization on model performance to optimize efficiency.​
 - Implicit Biases: Investigating the implicit biases of optimizers and architecture under the lens of neural collapse and class imbalance.
 - Kernel Method in Chemistry: Implementing practical kernel algorithms for molecular chemistry.
