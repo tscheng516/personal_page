@@ -14,7 +14,8 @@ For my published research, please see [Publication](https://tscheng516.github.io
 - Optimization on Reasoning Task: Enhancing reasoning tasks through reinforcement learning, similar to those employed in DeepSeek R1, and comparing it to direct preference optimization
 - Parameter-Efficient Fine-Tuning: Utilizing advanced methods such as LoRA ensembling and weight averaging to fine-tune LLMs/VLMs for downstream tasks.​ (Looking for Master Students, have a look on [Proposal](https://docs.google.com/document/d/1F5EPdNdkqcwkUH5rDdNTxYp_9XpuyUbNCfpgdU9_jSY/edit?usp=sharing) and please contact me via email if interested)
 - Quantization Effects: Investigating the impact of quantization on model performance to optimize efficiency.​
-- Implicit Biases: Investigating the implicit biases of optimizers and architecture under the lens of neural collapse and class imbalance. (Looking for Master Students, have a look on [Proposal](https://docs.google.com/document/d/1A4ENkWKhmnvCkfDm7Be71_rqGw7Hw7vcNxXvyCmtGKc/edit?usp=sharing) and please contact me via email if interested)
+- Implicit Biases: Investigating the implicit biases of optimizers and architecture under the lens of neural collapse (NC) and class imbalance. (Looking for Master Students, have a look on [Proposal](https://docs.google.com/document/d/1A4ENkWKhmnvCkfDm7Be71_rqGw7Hw7vcNxXvyCmtGKc/edit?usp=sharing) and please contact me via email if interested)
+- Overlap between LoRA and NC: How LoRA variants affect NC metrics and hence OOD performance. (Looking for Master Students, have a look on [Proposal](https://docs.google.com/document/d/1ZUTH8eDVvJoC8aOQlO_ItcJ-rqJdCMh8dkGytU_iD4Q/edit?usp=sharing) and please contact me via email if interested)
 - Kernel Method in Chemistry: Implementing practical kernel algorithms for molecular chemistry. 
 
 
