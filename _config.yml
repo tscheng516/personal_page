@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-CH"
-title                    : "Tin Sum Cheng / PhD student"
+title                    : "Tin Sum Cheng / ML Researcher"
 title_separator          : "-"
 name                     : &name "Tin Sum Cheng"
-description              : &description "personal description"
+description              : &description "Postdoctoral researcher at the University of Basel working on multimodal foundation models for healthcare and science: uncertainty, generalization and efficient training."
 url                      : https://tscheng516.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/personal_page" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+baseurl                  : "" # user site: repository is named tscheng516.github.io
+repository               : "tscheng516/tscheng516.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "profile.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Tin Sum Cheng"
   avatar           : "profile.png"
-  bio              : "Dedicated PhD student in machine learning theory with a robust mathematical foundation. My goal is to contribute to cutting-edge research, leveraging my mathematical expertise and my interest inmachine learning to drive innovation."
-  location         : "Basel"
-  employer         : "University of Basel"
+  bio              : "Postdoc in machine learning. Multimodal foundation models for healthcare and science; from theory to GPU kernels."
+  location         : "Basel, Switzerland"
+  employer         : "University of Basel (AICH)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5wfAh9kAAAAJ&hl=en"
   email            : "tinsum.cheng@unibas.ch"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/tinsumcheng"
+  linkedin         : "tinsumcheng"
   orcid            : "https://orcid.org/0000-0002-3000-311X"
   pinterest        :
   soundcloud       :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Zurich # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

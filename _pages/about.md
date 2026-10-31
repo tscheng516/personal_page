@@ -1,26 +1,46 @@
 ---
 permalink: /
-title: "Academic personal website from Tin Sum Cheng"
-excerpt: "About me"
+title: "Tin Sum Cheng"
+excerpt: "Postdoctoral researcher in machine learning: multimodal foundation models, AI for healthcare and AI for science."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a PhD student from [Aurelien Lucchi](https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi/)'s group in University of Basel, Switzerland. My main interests are kernel methods and linear neural networks in machine learning theory. Feel free to check out my publications, blogs and CV. Our group welcomes all friendly networking and potential site visit. Please reach out to us and visit the beautiful Switzerland.
+I am a postdoctoral researcher at the [University of Basel](https://dbe.unibas.ch/en/aich/) in the *Analytics & Informatics for Child Health* (AICH) group, working on **uncertainty quantification for multimodal foundation models in pediatric healthcare**.
+I completed my PhD in Machine Learning in 2026 under [Aurelien Lucchi](https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi/), with a thesis on the spectral analysis of feature embeddings in deep learning.
 
-For my published research, please see [Publication](https://tscheng516.github.io/personal_page/publications/). Currently, I am researching on the following exciting topics:
-- Optimization on Reasoning Task: Enhancing reasoning tasks through reinforcement learning, similar to those employed in DeepSeek R1, and comparing it to direct preference optimization
-- Parameter-Efficient Fine-Tuning: Utilizing advanced methods such as LoRA ensembling and weight averaging to fine-tune LLMs/VLMs for downstream tasks.​ (Looking for Master Students, have a look on [Proposal](https://docs.google.com/document/d/1F5EPdNdkqcwkUH5rDdNTxYp_9XpuyUbNCfpgdU9_jSY/edit?usp=sharing) and please contact me via email if interested)
-- Quantization Effects: Investigating the impact of quantization on model performance to optimize efficiency.​
-- Implicit Biases: Investigating the implicit biases of optimizers and architecture under the lens of neural collapse (NC) and class imbalance. (Looking for Master Students, have a look on [Proposal](https://docs.google.com/document/d/1A4ENkWKhmnvCkfDm7Be71_rqGw7Hw7vcNxXvyCmtGKc/edit?usp=sharing) and please contact me via email if interested)
-- Overlap between LoRA and NC: How LoRA variants affect NC metrics and hence OOD performance. (Looking for Master Students, have a look on [Proposal](https://docs.google.com/document/d/1ZUTH8eDVvJoC8aOQlO_ItcJ-rqJdCMh8dkGytU_iD4Q/edit?usp=sharing) and please contact me via email if interested)
-- Kernel Method in Chemistry: Implementing practical kernel algorithms for molecular chemistry. 
+I work across the full stack of foundation models, from the theory of why they generalize down to the GPU kernels that train them, and I enjoy working with domain experts such as clinicians, chemists and engineers.
 
+News
+======
 
+{% for item in site.data.news limit: 5 -%}
+* **{{ item.date }}:** {{ item.text }}
+{% endfor %}
 
+What I work on
+======
 
-For more info
-------
-More info about our group can be found in our [group website](https://omls.dmi.unibas.ch/en/). 
+* **Multimodal & foundation models**: pre-training and fine-tuning of language transformers (OLMo, nanochat), vision transformers (ViT, DeiT) and vision-language models (CLIP).
+* **AI for healthcare**: uncertainty quantification and reliable multimodal models for pediatric medicine.
+* **AI for science**: kernels, GNNs and pretrained embeddings for molecular property prediction, in collaboration with chemists.
+* **AI engineering**: custom Triton/C kernels (MatMul, BMM) at the Huawei Hong Kong Research Center, and reproducible multi-GPU SLURM pipelines with Weights & Biases.
+* **Theory behind the practice**: generalization of kernel methods, neural collapse, optimizer behaviour and transformer training instability.
+
+Selected publications
+======
+
+* **Optimizer Choice Matters for the Emergence of Neural Collapse**. ICLR 2026. [arXiv](https://arxiv.org/abs/2602.16642)
+* **Spectral Analysis of Molecular Features: When Richer Features Do Not Guarantee Better Generalization**. TMLR. [arXiv](https://arxiv.org/abs/2510.14217) · [OpenReview](https://openreview.net/forum?id=teXV1OiQCo)
+* **A Comprehensive Analysis on the Learning Curve in Kernel Ridge Regression**. NeurIPS 2024. [arXiv](https://arxiv.org/abs/2410.17796)
+* **Characterizing Overfitting in Kernel Ridgeless Regression Through the Eigenspectrum**. ICML 2024. [arXiv](https://arxiv.org/abs/2402.01297)
+* **A Theoretical Analysis of the Test Error of Finite-Rank Kernel Ridge Regression**. NeurIPS 2023.
+
+[All publications]({{ site.baseurl }}/publications/) · [Google Scholar](https://scholar.google.com/citations?user=5wfAh9kAAAAJ) · [Download CV]({{ site.baseurl }}/files/Tin_Sum_Cheng_CV.pdf)
+
+Get in touch
+======
+
+I am happy to talk about collaborations, and about research or applied-science roles in multimodal learning, AI for healthcare and AI for science. Reach me by [email](mailto:tinsum.cheng@unibas.ch), on [LinkedIn](https://www.linkedin.com/in/tinsumcheng/) or [GitHub](https://github.com/tscheng516).
